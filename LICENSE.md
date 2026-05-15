@@ -1,4 +1,4 @@
-# 
+# elite bitmex trading bot Tool | API-integration + high-frequency is the best bitmex trading bot, featuring API-integration and high-frequency. Smart, fast, and optimized for
 
 
 
